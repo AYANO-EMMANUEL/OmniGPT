@@ -1,0 +1,21 @@
+.body-background, nav {
+    background-color: #111826;
+}
+
+.navigating-text {
+    color: #FFFFFF !important;
+    font-family: "Poppins" !important;
+    font-size: 1.125rem !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: normal !important;    
+}
+
+.page {
+    color: #FFFFFF !important;
+    font-family: "FS Meridian Trial" !important;
+    font-size: 5rem !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    line-height: 6rem !important; /* 120% */
+}
