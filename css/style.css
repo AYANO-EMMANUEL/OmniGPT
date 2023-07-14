@@ -4,18 +4,30 @@
 
 .navigating-text {
     color: #FFFFFF !important;
-    font-family: "Poppins" !important;
+    font-family: Poppins !important;
     font-size: 1.125rem !important;
     font-style: normal !important;
     font-weight: 400 !important;
     line-height: normal !important;    
 }
 
-.page {
+.headlinepage {
     color: #FFFFFF !important;
-    font-family: "FS Meridian Trial" !important;
+    font-family: FS Meridian Trial !important;
+    /* text-align:justify; */
     font-size: 5rem !important;
     font-style: normal !important;
     font-weight: 500 !important;
     line-height: 6rem !important; /* 120% */
+}
+
+.conservation {
+    width: max-content;
+    /* width:min-content; */
+    background-image: url('/images/purple-circle-background.png');
+    background-size: cover;
+    /* background-position: -20px 0px; */
+    background-position:left -20px top 20px;
+    background-repeat: no-repeat;
+    text-align: left;
 }
